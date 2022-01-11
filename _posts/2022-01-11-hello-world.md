@@ -1,4 +1,7 @@
-## Watt Family Rebuild
+---
+layout: post
+title: Thank You
+---
 
 Dear family, friends, friends of friends, community members, and everyone:
 
