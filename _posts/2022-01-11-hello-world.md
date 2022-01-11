@@ -3,7 +3,7 @@ title: Thank You
 excerpt_separator: <!--more-->
 ---
 
-Dear family, friends, friends of friends, community members, and everyone:
+Dear family, friends, friends of friends, coworkers, community members, and everyone:
 
 We are still processing our grief, and will be, in some manner, for the rest of our lives. But we wanted to reach out and thank all of you for your amazing generoisty and support. We want to thank each of you individually for your generous gifts, but there are so many of you helping us that there is no way we could possibly do this, so we will have to make do with this more generic thank you: Thank you all, from the bottom of our hearts!
 
