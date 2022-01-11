@@ -1,5 +1,6 @@
 ---
 title: Thank You
+excerpt_separator: <!--more-->
 ---
 
 Dear family, friends, friends of friends, community members, and everyone:
