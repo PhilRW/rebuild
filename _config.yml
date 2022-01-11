@@ -3,4 +3,5 @@ name: Watt Family Rebuild
 gems:
   - jekyll-sitemap
   - jekyll-feed
+plugins:
     jemoji
