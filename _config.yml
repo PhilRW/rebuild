@@ -3,3 +3,4 @@ name: Watt Family Rebuild
 gems:
   - jekyll-sitemap
   - jekyll-feed
+permalink: /:categories/:year/:month/:day/:title
