@@ -19,27 +19,11 @@ Thank you for supporting us. Please see the posts below for updates. Here are li
 
       <div class="entry">
         {{ post.excerpt }}
-      </div>
 
       {% if post.excerpt != post.content %}
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      {% endif %}
-    </article>
-  {% endfor %}
-</div>
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post" markdown="1">
-## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-      <div class="entry" markdown="1">
-{{ post.excerpt }}
-
-      {% if post.excerpt != post.content %}
-[Read More]({{ site.baseurl }}{{ post.url }})
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       {% endif %}
       </div>
     </article>
   {% endfor %}
 </div>
-
