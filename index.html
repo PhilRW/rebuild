@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<h2>{{ site.data.navigation.title }}</h2>
+<ul>
+   {% for item in site.data.navigation.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
+
+<h2>Posts</h2>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
