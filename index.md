@@ -20,8 +20,3 @@ Thank you for supporting us. Please see the posts below for updates. Here are li
 {% endif %}
 {% endfor %}
 
-# {{ site.data.links.title }}
-
-{% for item in site.data.links.docs %}
-* [{{ item.title}}]({{ item.url }})
-{% endfor %}
