@@ -2,20 +2,15 @@
 layout: default
 ---
 
-<h2>{{ site.data.navigation.title }}</h2>
-<ul>
-   {% for item in site.data.navigation.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
+<p>Thank you for supporting us. We will update this page soon with links to various ways you can support us and our community.</p>
 
-<h2>Posts</h2>
+<h1>Posts</h2>
 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -27,3 +22,11 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+<h1>{{ site.data.navigation.title }}</h2>
+
+<ul>
+   {% for item in site.data.links.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
