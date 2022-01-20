@@ -11,19 +11,14 @@ Thank you for supporting us. Please see the posts below for updates. Here are li
 
 # Posts
 
-<div class="posts">
 {% for post in site.posts %}
-<article class="post">
 ## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-<div class="entry">
 {{ post.excerpt }}
-</div>
+
 {% if post.excerpt != post.content %}
-<div class="read-more">[Read More]({{ site.baseurl }}{{ post.url }})</div>
+[Read More]({{ site.baseurl }}{{ post.url }})
 {% endif %}
-</article>
 {% endfor %}
-</div>
 
 # {{ site.data.links.title }}
 
