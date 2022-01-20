@@ -28,5 +28,5 @@ Thank you for supporting us. Please see the posts below for updates. Here are li
 # {{ site.data.links.title }}
 
 {% for item in site.data.links.docs %}
-- [{{ item.title}}]({{ item.url }})
+* [{{ item.title}}]({{ item.url }})
 {% endfor %}
