@@ -7,6 +7,6 @@ Here is the last picture I took of our house before it burned down, and the firs
 
 <!--more-->
 
-![The last picture of our house](/assets/IMG_0394.jpeg)
+![Our house, heavy smoke in the air](/assets/IMG_0394.jpeg)
 
-![The debris was still burning](/assets/IMG_0398.jpeg)
+![A pile of smouldering debris](/assets/IMG_0398.jpeg)
