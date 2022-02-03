@@ -2,7 +2,7 @@
 layout: default
 ---
 
-On December 20, 2021, our house and all of our belongings burned down in the Marshall Fire.
+On December 30, 2021, our house and all of our belongings burned down in the Marshall Fire.
 
 Thank you for supporting us. Please see the posts below for updates. Here are links to support us and our community directly:
 
