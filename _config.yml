@@ -4,4 +4,6 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
 permalink: /:categories/:year/:month/:day/:title
-
+site:
+  title: Watt Family Rebuild
+  description: Help us rebuild after we lost everything in the Marshall Fire.
