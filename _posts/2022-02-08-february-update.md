@@ -17,7 +17,7 @@ Phil has started automating the house, which has been good for all of us. The li
 
 We have started to work with a builder on a new design for the rebuild. That's been a sweet spot in all of this: the chance to build a home together. I always thought we would, just not under these circumstances. Losing our home has reinforced just how much we love our neighborhood, and we want to live there for the rest of our lives. Original Town will be very different, I know, but I'm hopeful that we can rebuild and come back stronger. 
 
-I turned forty on January 30. A bitteresweet celebration, but I had a lovely day nonetheless. 
+I turned forty on January 30. A bittersweet celebration, but I had a lovely day nonetheless.
 
 ❤️  Kelly
 
