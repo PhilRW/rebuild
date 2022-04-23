@@ -3,7 +3,7 @@ title: The Winds of ________
 excerpt_separator: <!--more-->
 ---
 
-It's been windy here. And warm. And dry. So much so that [BCARES](http://bouldercountyares.org/) sent out a proactive survey asking if we'd be available to deploy on Friday (it didn't happen, thank goodness). It was the most dangerous day of the year for fires. But the [year ain't over yet](https://www.youtube.com/watch?v=SFsa62d5Ri4)."
+It's been windy here. And warm. And dry. So much so that [BCARES](http://bouldercountyares.org/) sent out a proactive survey asking if we'd be available to deploy on Friday (it didn't happen, thank goodness). It was the most dangerous day of the year for fires. But the [year ain't over yet](https://www.youtube.com/watch?v=SFsa62d5Ri4).
 
 <!--more-->
 
