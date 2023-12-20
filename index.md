@@ -10,6 +10,7 @@ Thank you for supporting us. Please see the posts below for updates. Here are li
 * [Our Amazon wishlist](https://www.amazon.com/hz/wishlist/ls/2LL3FYQESWG0U)
 * [Our Venmo](https://venmo.com/u/PhilRW)
 * [Marshall Fire Family Relief Fund](https://www.gofundme.com/f/boulder-superior-louisville-fire-relief-fund)
+* [Photo album of progress](https://photos.rosenberg-watt.com/s/2a8h5l4y1a/rebuild)
 
 # Posts
 
